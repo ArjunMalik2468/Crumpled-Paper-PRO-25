@@ -42,10 +42,10 @@ function draw() {
   rectMode(CENTER);
   background(230);
  
-  
+  dustbinObj.display();
   paperObject.display();
   groundObject.display();
-  dustbinObj.display();
+  
 
   
   
